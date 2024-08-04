@@ -1,2 +1,3 @@
 # locobot2
-1.0:https://github.com/kiminnal/-locot
+user:https://github.com/kiminnal
+locot1.0:https://github.com/kiminnal/-locot
