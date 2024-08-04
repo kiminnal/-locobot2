@@ -1,6 +1,6 @@
 # locobot2
 user:https://github.com/kiminnal
 locot1.0:https://github.com/kiminnal/-locot
-https://raw.senmanga.com/
-https://www.deepl.com/
-https://www.faiyi.sougo.com/
+raw maga:https://raw.senmanga.com/
+Deepl翻译:https://www.deepl.com/
+搜狗:https://www.faiyi.sougo.com/
